@@ -1,0 +1,31 @@
+{
+    "ScreenData" : 
+    {
+        "name" : "mainScreen",
+        "background" : "resources\\images\\background.png"
+        
+},
+    "Sprites" : {
+
+        "gameboard" : {
+            "coords": [100,100],
+            "dimension": [954,537],
+            "texture" : "resources\\images\\gameboard.png",
+            "isCollidable": false,
+            "tag" : "gameboard"
+            
+        },
+
+
+
+        "ia 1":{
+            "coords": [1000,100],
+            "dimension": [117,145],
+            "texture" : "resources\\images\\IA.png",
+            "isCollidable": false,
+            "tag":"ia"
+        }
+
+
+    } 
+}

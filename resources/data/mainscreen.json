@@ -8,18 +8,25 @@
     "Sprites" : {
 
         "gameboard" : {
-            "coords": [100,100],
+            "coords": [123,100],
             "dimension": [954,537],
             "texture" : "resources\\images\\gameboard.png",
             "isCollidable": false,
             "tag" : "gameboard"
             
         },
-
+        "sol" : {
+            "coords": [123,625],
+            "dimension": [926,14],
+            "texture" : "resources\\images\\sol.png",
+            "isCollidable": true,
+            "tag" : "sol"
+            
+        },
 
 
         "ia 1":{
-            "coords": [1000,100],
+            "coords": [1050,10],
             "dimension": [117,145],
             "texture" : "resources\\images\\IA.png",
             "isCollidable": false,

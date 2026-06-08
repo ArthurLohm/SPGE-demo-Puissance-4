@@ -22,17 +22,7 @@
             "isCollidable": true,
             "tag" : "sol"
             
-        },
-
-
-        "ia 1":{
-            "coords": [1050,10],
-            "dimension": [117,145],
-            "texture" : "resources\\images\\IA.png",
-            "isCollidable": false,
-            "tag":"ia"
         }
-
 
     } 
 }

@@ -1,1 +1,1 @@
-# CPGEdemo : The Fourth One
+# SPGE démo : Puissance 4

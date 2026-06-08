@@ -1,1 +1,1 @@
-# SPGE démo : Puissance 4
+# Smale Pygame Game Engine (SPGE) démo : Puissance 4

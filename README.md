@@ -2,7 +2,7 @@
 
 > Moteur de jeu 2D léger en Python, conçu pour simplifier la création de jeux avec Pygame.
 
-![Version](https://img.shields.io/badge/version-Beta%200.6.0-blue)
+![Version](https://img.shields.io/badge/version-release%201.0-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
 ![Pygame](https://img.shields.io/badge/Pygame-required-green)
 

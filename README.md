@@ -78,9 +78,10 @@ SPGE/
 ## Installation
 
 ```bash
-git clone https://github.com/votre-utilisateur/SPGE.git
-cd SPGE
+git clone https://github.com/ArthurLohm/SPGE-demo-Puissance-4.git
+cd SPGE-demo-Puissance-4
 pip install pygame
+python main.py
 ```
 
 ---

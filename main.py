@@ -1,7 +1,7 @@
 from SPGE import *
 from json import load
 
-OptionPath = "resources\\data\\option.json"
+OptionPath = "ressources\\data\\option.json"
 
 
 class Game:
@@ -11,14 +11,14 @@ class Game:
 
         # Partie logique
         self.partie = P4Game()
-        self.option = load(open("C:\\Users\\arthu\\Documents\\Code_python\\Puissance 4\\resources\\data\\option.json"))
+        self.option = load(open("ressources\\data\\option.json"))
 
         # Partie graphique
         self.engine = Engine(self.option["General"]["WindowSize"], self.option["General"]["Title"])
         self.timeFunc = TimedFunctionManager()
         self.engine.setTimedFunctionManager(self.timeFunc)
 
-        self.mainScreen = ConvertToScreen("C:\\Users\\arthu\\Documents\\Code_python\\Puissance 4\\resources\\data\\mainscreen.json")
+        self.mainScreen = ConvertToScreen("ressources\\data\\mainscreen.json")
         self.mainEvent = EventManager()
         self.mainEvent.AddEvent(pygame.KEYDOWN, self.event)
 

@@ -1,0 +1,28 @@
+{
+    "ScreenData" : 
+    {
+        "name" : "mainScreen",
+        "background" : "ressources\\images\\background.png"
+        
+},
+    "Sprites" : {
+
+        "gameboard" : {
+            "coords": [123,100],
+            "dimension": [954,537],
+            "texture" : "ressources\\images\\gameboard.png",
+            "isCollidable": false,
+            "tag" : "gameboard"
+            
+        },
+        "sol" : {
+            "coords": [123,625],
+            "dimension": [926,14],
+            "texture" : "ressources\\images\\sol.png",
+            "isCollidable": true,
+            "tag" : "sol"
+            
+        }
+
+    } 
+}

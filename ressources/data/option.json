@@ -1,0 +1,31 @@
+{
+    "General":
+    {
+        "WindowSize" : [1200,800],
+        "Title" : "Puissance 4"
+    },
+    "GameSettings" :
+    {
+        "Poids":[0,3],
+        "PlaceTime": 30
+    },
+    "Ressources":
+    {
+        "Pion":{
+            "J1" : "ressources\\images\\pionJ1.png",
+            "J2" : "ressources\\images\\pionJ2.png"
+        },
+        "Arrow" :{
+            "J1": "ressources\\images\\arrowJ1.png",
+            "J2": "ressources\\images\\arrowJ2.png"
+        },
+        "Victoire":{
+            "J1" :"ressources\\images\\VictoireJ1.png",
+            "J2" :"ressources\\images\\VictoireJ2.png",
+            "Tie":"ressources\\images\\VictoireTie.png"
+        } 
+    }
+    
+
+
+}

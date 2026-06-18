@@ -34,7 +34,7 @@ Quelques années plus tard, en première année de classe préparatoire, souhait
 ## Généalogie
 
 - **2022** : début du projet (réalisation de la majeure partie)
-- **2023** : amélioration, ajout de la physique à l'aide des connaissances acquises au lycée (1ère spécialité physique)
+- **2023** : amélioration, ajout de principes physiques élémentaires à l'aide des connaissances acquises au lycée (1ère spécialité physique)
 - **2025** : réalisation de la démonstration — Puissance 4 —
 - **2026** : reprise du projet pour le rendre présentable dans le cadre de ma candidature à l'ENS de Rennes *(aucune modification du code)*
 

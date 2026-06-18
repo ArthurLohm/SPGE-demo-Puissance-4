@@ -38,7 +38,8 @@ Quelques années plus tard, en première année de classe préparatoire, souhait
 - **2025** : réalisation de la démonstration — Puissance 4 —
 - **2026** : reprise du projet pour le rendre présentable dans le cadre de ma candidature à l'ENS de Rennes *(aucune modification du code)*
 
-L'intégralité du projet a été réalisée sans aucune aide d'IA, inexistante lors de sa création.
+Le moteur SPGE et la démonstration Puissance 4 ont été développés sans aide d'IA.
+La reprise de 2026 a uniquement consisté à rendre le dépôt plus lisible et présentable dans le cadre de la candidature.
 
 ---
 

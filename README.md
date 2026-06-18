@@ -98,7 +98,7 @@ engine = Engine((1080, 720), "Mon Jeu")
 
 # Création d'une scène
 screen = Screen()
-screen.SetBackGround("resources/background.png")
+screen.SetBackGround("ressources/background.png")
 
 # Ajout d'un sprite
 sprite = Sprite(screen, (100, 100), (64, 64), "resources/player.png", isCollidable=True)

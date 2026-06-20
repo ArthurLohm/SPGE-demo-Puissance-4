@@ -27,7 +27,7 @@ J'ai commencé à apprendre le Python lorsque j'étais en classe de 5ème. Depui
 
 Quelques années plus tard, en classe de seconde, après avoir fait mes armes sur d'autres projets, langages ou moteurs de jeux comme Unity, j'ai eu l'envie de construire un moteur de jeu en me basant sur la bibliothèque pygame. L'objectif était de concevoir une surcouche du module pygame ajoutant des moyens de construire un jeu rapidement, comme la gestion des sprites, des boutons, de la caméra, etc. Je ne cherchais pas à réaliser un projet que je pourrais exploiter par la suite, mais j'étais principalement motivé par le défi que cela implique et la réflexion à mener pour construire l'architecture d'un tel projet. C'est encore à ce jour mon plus gros projet de programmation abouti.
 
-Quelques années plus tard, en première année de classe préparatoire, souhaitant pouvoir montrer à mes amis l'aboutissement de ce projet, j'ai réalisé la démonstration que voici en créant un Puissance 4 en quelques heures à l'aide du moteur.
+Finalement, en première année de classe préparatoire, souhaitant pouvoir montrer à mes amis l'aboutissement de ce projet, j'ai réalisé la démonstration que voici en créant un Puissance 4 en quelques heures à l'aide du moteur.
 
 ---
 
